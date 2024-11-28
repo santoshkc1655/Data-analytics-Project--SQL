@@ -1,7 +1,7 @@
 # Data-analytics-Project--SQL
 
 ## Introduction
-Structured Query Language (SQL) plays a pivotal role in data analytics, serving as an essential tool for querying and managing relational databases. The primary goal of this project is to showcase my proficiency in SQL to solve real-world business problems and prepare analytics-ready data/query for further analysis as per business requirements. This includes leveraging various SQL techniques such as data retrieval, aggregation, joins, subqueries, and window functions to extract meaningful insights and optimize data workflows.
+Structured Query Language (SQL) plays a pivotal role in data analytics, serving as a fundamental tool for querying and managing relational databases. The primary objective of this project is to demonstrate my proficiency in SQL by solving real-world business problems and creating analytics-ready data or queries for further analysis based on business requirements. This involves utilizing various SQL techniques such as data retrieval, aggregation, joins, subqueries, and window functions to extract actionable insights and streamline data workflows.
 
 
 ## Description of Database:
