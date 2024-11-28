@@ -1,8 +1,10 @@
 # Data-analytics-Project--SQL
 
 ## Introduction
-Structured Query Language (SQL) is a crucial component of data analytics, serving as a key tool for querying and managing relational databases. This report centres on the development and execution of SQL queries to engage with a detailed relational database. The main aim was to demonstrate SQL’s proficiency in data manipulation and its capability to address relevant business questions. Utilizing diverse SQL techniques—including data retrieval, aggregation, and intricate joins—the project sought to derive valuable insights that facilitate informed decision-making.
-Description of Database:
+Structured Query Language (SQL) plays a pivotal role in data analytics, serving as an essential tool for querying and managing relational databases. The primary goal of this project is to showcase my proficiency in SQL to solve real-world business problems and prepare analytics-ready data/query for further analysis as per business requirements. This includes leveraging various SQL techniques such as data retrieval, aggregation, joins, subqueries, and window functions to extract meaningful insights and optimize data workflows.
+
+
+## Description of Database:
 The classicmodels database is a retailer of scale models of classic cars. It contains typical business data, including information about customers, products, sales orders, sales order line items, and more.
 
 ## The database schema consists of the following tables:
