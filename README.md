@@ -16,3 +16,23 @@ The classicmodels database is a retailer of scale models of classic cars. It con
 -	payments: stores payments made by customers based on their accounts.
 -	employees: stores employee information and the organization structure such as who reports to whom.
 -	offices: stores sales office data.
+
+
+## Business Case: Optimizing Customer Retention and Sales Performance for ClassicModels
+1.Scenario Overview
+
+ClassicModels, a retailer of scale models of classic cars, aims to leverage customer payment and sales representative performance data to enhance business outcomes. Using insights from SQL queries, the business owner seeks to:
+
+Identify high-value customers who make payments above the average amount.
+Calculate the cumulative total of payments made by each customer to understand their lifetime value.
+Evaluate the performance of the top five sales representatives by total sales in 2003 to identify key contributors.
+
+2.Key Business Questions
+
+2.1 Which customers contribute the most to revenue, and how can we ensure their continued loyalty?
+2.2 What are the cumulative contributions of each customer, and how does it align with their engagement level?
+2.3 Who are the top-performing sales representatives, and what strategies drive their success?
+
+3.Business Impact
+
+By focusing on high-value customers and top-performing sales representatives, ClassicModels can enhance revenue growth, improve customer satisfaction, and create a competitive edge in the market. These insights empower the business owner to make data-driven decisions, ensuring strategic alignment with business goals.
